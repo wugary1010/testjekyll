@@ -26,7 +26,7 @@ github_username:  wugary1010
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
